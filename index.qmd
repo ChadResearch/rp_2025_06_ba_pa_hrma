@@ -1,0 +1,98 @@
+# Project Details {.unnumbered}
+Updated in 2025-11-21
+
+## Citation
+
+## Abstract
+
+> Here Abstract
+
+## Planning
+
+### Schedule
+- within 2025
+
+### Progress
+- Project initiated
+
+## Authorship and Authors
+
+### Author Contribution
+
+- Supervision: Chungil (Chad) Chae 
+- Project administration:
+  - Chungil (Chad) Chae
+- Conceptualization:
+  - Chungil (Chad) Chae
+-  Data accusation:
+  - Qingtai Xu (Eren)
+-  Data curation:
+-  Formal analysis:
+  - Chungil (Chad) Chae
+- Investigation:
+- Methodology:
+  - Chungil (Chad) Chae
+- Resources:
+- Validation:
+- Visualization:
+- Writing – original draft:
+  - Chungil (Chad) Chae
+- Writing – review & editing:
+  - Chungil (Chad) Chae
+
+
+
+### Authors
+
+#### Chungil Chae, Ph.D., M.S.
+
+:::: {.columns}
+
+::: {.column width="70%"}
+- chadchae\@gmail.com
+- orcid: [000-0002-7364-1525](https://orcid.org/0000-0002-7364-1525)
+- [Google Scholar](https://scholar.google.com/citations?user=c4lRBrkAAAAJ&hl=en)
+- @chadchae
+
+:::
+
+::: {.column width="30%"}
+![](img/chadchae.png)
+:::
+
+
+::::
+
+> Chungil Chae @chadchae is an assistant professor in the field of business analytics, with a distinguished track record in organizational behavior, human resource development (HRD), learning, and development. With a prolific publication record that spans various dimensions of HRD and organizational studies, Dr. Chae has made significant contributions to understanding the dynamics of organizational support on knowledge sharing, virtual team leadership, and the structural determinants of HRD research collaboration networks. And his work embodies a deep commitment to enhancing understanding and practices in organizational behavior, HRD, learning, and development. His interdisciplinary research not only contributes to academic discourse but also offers tangible strategies for organizational improvement and individual development.
+
+#### Qingtai Xu (Eren)
+
+:::: {.columns}
+
+::: {.column width="70%"}
+- xuqingtaieren@gmail.com
+- Undergraduate Student
+- Wenzhou-Kean University
+
+:::
+
+::: {.column width="30%"}
+![](img/qingtaixu_eren.png)
+:::
+
+::::
+
+> Qingtai Xu is a junior student from Wenzhou Kean University who working under the supervision of Dr. Chungil Chae. His research focuses on. As a research assistant, Qingtai's research interests are mainly focuses on human resource management, data analysis, business management and business analytics for strategic decision making. Qingtai has participated in internship programs of Fortune 500 companies and science popularization education programs carried out by the United Nations in Zhejiang, China. Through research collaborations and volunteer work, Qingtai has laid a solid foundation in the application of artificial intelligence systems, statistical modeling, data analysis and other aspects.
+
+### Acknowledgement
+
+-   tba
+
+## Declearation
+
+### IRB
+
+### Funding
+
+### AI
+
